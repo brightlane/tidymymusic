@@ -1,0 +1,21 @@
+name: Generate Meta Files — Stream-Hub
+on:
+  schedule:
+    - cron: '30 9 * * *'   # 9:30 AM UTC daily (after blog posts at 9AM)
+  workflow_dispatch:
+jobs:
+  meta:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python generate_meta.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: brightlane
+          GH_REPO: Stream-Hub
