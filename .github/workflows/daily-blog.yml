@@ -1,21 +1,60 @@
 name: Daily Blog — Stream-Hub
+
 on:
   schedule:
     - cron: '0 9 * * *'
+
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   blog:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests
-      - run: python blog_generator.py
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Verify Blog Generator Exists
+        run: |
+          ls -la
+
+          if [ ! -f blog_generator.py ]; then
+            echo "ERROR: blog_generator.py not found in repository root"
+            exit 1
+          fi
+
+      - name: Run Blog Generator
+        run: python ./blog_generator.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: brightlane
           GH_REPO: Stream-Hub
+
+      - name: Commit and Push Blog Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          if git diff --cached --quiet; then
+            echo "No blog changes detected"
+            exit 0
+          fi
+
+          git commit -m "Daily blog update"
+
+          git pull --rebase origin main
+
+          git push origin main
