@@ -12,6 +12,20 @@ Brand: Brightlane Media
 - Type: Live streaming / multistreaming platform
 
 ## Main Pages
+- [about.html](https://brightlane.github.io/Stream-Hub/about.html)
+- [business.html](https://brightlane.github.io/Stream-Hub/business.html)
+- [churches.html](https://brightlane.github.io/Stream-Hub/churches.html)
+- [coaches.html](https://brightlane.github.io/Stream-Hub/coaches.html)
+- [comparison.html](https://brightlane.github.io/Stream-Hub/comparison.html)
+- [contact.html](https://brightlane.github.io/Stream-Hub/contact.html)
+- [disclosure.html](https://brightlane.github.io/Stream-Hub/disclosure.html)
+- [embed.html](https://brightlane.github.io/Stream-Hub/embed.html)
+- [faq.html](https://brightlane.github.io/Stream-Hub/faq.html)
+- [gamers.html](https://brightlane.github.io/Stream-Hub/gamers.html)
+- [multistreaming.html](https://brightlane.github.io/Stream-Hub/multistreaming.html)
+- [obs-setup.html](https://brightlane.github.io/Stream-Hub/obs-setup.html)
+- [platforms.html](https://brightlane.github.io/Stream-Hub/platforms.html)
+- [tips.html](https://brightlane.github.io/Stream-Hub/tips.html)
 
 ## Blog Posts
 - Blog posts published daily at 9AM UTC
