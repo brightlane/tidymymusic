@@ -3,7 +3,7 @@
 
 Restream.io reviews, multistreaming guides, OBS tutorials, and live streaming growth strategies for gamers, churches, coaches, and businesses worldwide.
 
-Updated: 2026-05-25
+Updated: 2026-05-27
 Brand: Brightlane Media
 
 ## Affiliate
@@ -13,6 +13,7 @@ Brand: Brightlane Media
 
 ## Main Pages
 - [about.html](https://brightlane.github.io/Stream-Hub/about.html)
+- [blog-index.html](https://brightlane.github.io/Stream-Hub/blog-index.html)
 - [business.html](https://brightlane.github.io/Stream-Hub/business.html)
 - [churches.html](https://brightlane.github.io/Stream-Hub/churches.html)
 - [coaches.html](https://brightlane.github.io/Stream-Hub/coaches.html)
@@ -28,7 +29,7 @@ Brand: Brightlane Media
 - [tips.html](https://brightlane.github.io/Stream-Hub/tips.html)
 
 ## Blog Posts
-- Blog posts published daily at 9AM UTC
+- [how-to-use-restream-studio-—-complete-beginner-guide-2026-05-27.html](https://brightlane.github.io/Stream-Hub/blog/how-to-use-restream-studio-—-complete-beginner-guide-2026-05-27.html)
 
 ## Topics Covered
 - Restream.io reviews and tutorials
