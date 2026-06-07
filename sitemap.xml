@@ -5,163 +5,169 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/about.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog-index.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/10-obs-settings-that-will-immediately-improve-your-stream-qu-2026-05-29.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/best-streaming-setup-for-beginners-2026-(free-tools-only)-2026-06-02.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/how-churches-can-live-stream-services-in-2026-(complete-guid-2026-06-04.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/how-to-grow-your-twitch-channel-in-2026-—-10-proven-strategi-2026-06-03.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://brightlane.github.io/Stream-Hub/blog/how-to-make-money-live-streaming-in-2026-—-8-revenue-streams-2026-06-07.html</loc>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/how-to-multistream-to-twitch-and-youtube-at-the-same-time-(2-2026-05-30.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/how-to-stream-on-linkedin-live-2026-—-guide-for-professional-2026-05-28.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/how-to-stream-to-tiktok-live-in-2026-—-complete-guide-2026-06-06.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/how-to-use-restream-studio-—-complete-beginner-guide-2026-05-27.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/obs-+-restream-the-complete-setup-guide-for-2026-2026-06-01.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/restream-io-review-2026-—-is-it-worth-it-2026-05-31.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/blog/restream-vs-streamyard-2026-—-which-is-better-2026-06-05.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/business.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/churches.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/coaches.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/comparison.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/contact.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/disclosure.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/embed.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/faq.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/gamers.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/multistreaming.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/obs-setup.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/platforms.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://brightlane.github.io/Stream-Hub/tips.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
