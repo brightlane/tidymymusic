@@ -1,0 +1,34 @@
+name: Build & Deploy TidyMyMusic
+
+on:
+  workflow_dispatch:        # ← Run manually from Actions tab only
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run build script
+        run: python3 build.py
+
+      - name: Deploy dist/ to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "Deploy TidyMyMusic — ${{ github.run_number }}"
