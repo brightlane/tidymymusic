@@ -1,0 +1,32 @@
+# TidyMyMusic
+
+> TidyMyMusic is a professional music library organizer by Wondershare that automatically fixes ID3 tags, fetches missing album artwork, downloads lyrics, removes duplicate songs, and tidies entire music collections in one click using acoustic fingerprinting technology.
+
+## Key Capabilities
+- Automatic ID3 tag repair (artist, album, title, year, genre, track number)
+- Album artwork recovery and embedding
+- Lyrics download and embedding
+- Duplicate song detection and removal
+- Batch processing for libraries of any size
+- iTunes library integration (Mac & Windows)
+- Local folder support (MP3, FLAC, M4A, WAV, WMA, OGG, AIFF)
+- Acoustic fingerprinting — identifies songs with zero existing tags
+- Manual tag override support
+
+## Platforms
+Windows 7/8/10/11 · macOS 10.10+
+
+## Pricing
+Free trial available. Full license via affiliate link.
+
+## Purchase / Download
+https://www.linkconnector.com/ta.php?lc=007949052354004532&atid=tidymymusicweb
+
+## Developer
+Wondershare Software Co., Ltd.
+
+## Site Coverage
+This site contains 1014+ keyword-targeted pages covering every aspect of music library management including ID3 tagging, album art, lyrics, duplicate removal, platform-specific guides, and comparisons with competitor tools.
+
+## Keywords Summary
+Music library organizer, iTunes cleaner, ID3 tag fixer, album artwork downloader, duplicate song remover, music metadata editor, batch MP3 tagger, acoustic fingerprint music identification, music collection manager, fix mislabeled songs, missing album art fixer, MP3 tag editor software, music organizer Windows, music organizer Mac, lyrics downloader for MP3, TidyMyMusic, Wondershare TidyMyMusic
