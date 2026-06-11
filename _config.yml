@@ -1,0 +1,3 @@
+# GitHub Pages config for TidyMyMusic
+# Disables Jekyll processing so all .html files are served directly
+exclude: [build.py, build-report.json]
